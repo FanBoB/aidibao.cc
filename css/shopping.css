@@ -1,0 +1,130 @@
+/* shopping details_page1 */
+.shop_num{position: absolute;left: 18px;top: 5px;font-weight: bold;}
+.shopping_right h1,.shopping_right small,.shopping_right p{font-family: "黑体";}
+.shopping_right h1{padding-top: 35px;font-size: 30px;}
+.shopping_right small{display:inline-block;font-size: 18px;padding: 8px 0 35px 14px;}
+.shopping_right ul li{float: left;margin: 0 0 18px 10px;_margin: 0 0 18px 8px;}
+.shopping_right ul li a{border: 1px solid #BFBFBF;display:inline-block;width:148px;height:38px;line-height:38px;font-size: 18px;}
+.shopping_right ul li a.active{border-color: #F3A900;color: #F3A900;}
+.shop_number{margin-top: 12px;padding-left: 14px;position: relative;}
+.shop_number select{width: 76px;height: 32px;border: 1px solid #BFBFBF;position: absolute;top: -8px;left: 85px;+top:26px;_top:-4px}
+.shop_sub{margin:30px 0 0 14px;width: 111px;height: 38px;}
+.shop_banner{width: 1000px;height: 85px;background:#603814 url(../img/banner03.png) no-repeat;margin-bottom: 7px;}
+.shop_banner ul{margin-top: 16px;}
+.shop_banner ul li{line-height: 30px;text-indent: 8px;color: #fff;}
+.fcb_Product{width:1000px;height: 815px;border-top: 1px solid #BFBFBF;}
+.fcb_Product h1{text-align: center;line-height: 815px;color: #ccc;font-size: 40px;}
+/* end shopping details_page1 */
+
+/* fcb_dingzhi page2*/
+.fcb_dingzhi{height: 100px;margin-left: 10px;position: relative;}
+.fcb_dingzhi h2{font-size: 30px;color: #000;_margin-top:5px;}
+.fcb_dingzhi a{position: absolute;padding: 11px 30px;top: 30px;_top:35px;}
+.fcb_dingzhi .revise{right: 200px;}
+.fcb_dingzhi .add{right: 18px;padding: 11px 10px;}
+.Products{width: 474px;}
+.xiugai{border: 1px solid #BFBFBF;margin-left: 14px;+height: 198px;margin-bottom: 70px;}
+.xiugai_left{width: 157px;}
+.xiugai_img img{margin: 6px 6px 3px 5px !important;}
+.xiugai_left img{float:left;width: 145px;border: 1px solid #BFBFBF;margin: 6px 6px 8px 5px; display: inline;}
+.xiugai_right{width: 326px;}
+.xiugai_right h4{padding-top:16px;font-size: 18px;}
+.digit{position: relative;height: 95px; line-height: 32px;padding-top:12px;}
+.digit span{margin-right: 5px;+line-height: 22px;}
+.digit select{width: 46px;height: 35px;font-size: 16px;}
+.digit_number{position: absolute;right: 2px;top: 60px;_float:left;_line-height:32px;_width:240px;}
+.ie6_fr{_float:left}
+.digit_number input{width: 45px;height: 25px;+line-height: 25px;}
+.digit_jiehshao{font-size: 14px;color: #bfbfbf;line-height: 24px;}
+/* end fcb_dingzhi */
+/* fcb  btn_checkbox */
+.btn_checkbox{min-height: 38px;margin-top: 5px;}
+.btn_checkbox input,.btn_checkbox select{width: 52px;height: 22px;+display:inline-block;}
+.btn_checkbox .lable{display: inline-block;+float: left;+line-height: 30px;}
+.shu{margin:3px 5px 0 0;}
+.btn_checkbox lable a{text-indent:28px;line-height: 38px;font-size: 15px;}
+.fcb_input{width: 40px !important;}
+.xiugai1 h4{padding-top: 15px;line-height: 0;}
+.xiugai1 p{padding: 6px 0 0 0;}
+.btn_checkbox .lable1{width: 100%;}
+.btn_checkbox .select1{margin-left: 100px;+margin-top: 15px;margin-top: 0px\9\0;}
+.btn_checkbox1{margin-top: 5px\0;}
+/* end fcb btn_checkbox pege2*/
+
+/*my_shop page3*/
+.my_shop{width: 1000px;height: 56px;border-bottom: 3px solid #E1E1E1;position: relative;}
+.my_shop h2{position:absolute;left:30px;top:30px;[;top: 26px;];font-size: 18px;color: #f3a900;border-bottom: 3px solid #f3a900;width: 100px;height: 26px;font-weight: bold;+top:30px;}
+/* end my_shop */
+/* shopping_car */
+.shopping_car{width: 1000px;height: 80px; position: relative;margin-bottom: 200px;}
+.shopping_car a{padding: 12px 24px;position: absolute;bottom: 0;}
+.accounts{right: 56px;}
+.continue{right: 232px;}
+/* end shopping_car page3*/
+
+/* contact  page4*/
+.order{width: 1000px;position: relative;}
+.order h3 a{font-size: 18px;color: #fff;padding: 8px 4px;background: #f3a900;position: absolute;left: 30px;top: 22px;}
+.contact{border-bottom: 1px solid #BCBCBC;}
+.contact_ie7{+margin-top: 60px;}
+.contact ul{margin: 20px 0 0 185px;padding-bottom: 15px;}
+.contact ul li{margin-bottom: 10px;line-height: 38px;}
+.contact ul li label{display:inline-block;width: 90px;text-align: left;+float: left;}
+.contact ul li input,.fcb_comments_left ul li input{width: 213px;height: 34px;border: 1px solid #AAAAAA;border-radius: 5px;line-height: 34px;}
+.contact ul li input.vilod{border-color: #F3A900;}
+.contact ul li small{padding-left: 12px;font-size: 15px;color: #373737;}
+/* end contact */
+/* receive */
+.receive_header{height: 57px;}
+.receive_header ul{margin: 26px 0 0 214px;_display:inline;}
+.receive_header ul li{float: left;margin-left: 60px;color: #000;font-size: 15px;}
+.receive_more{margin-top: -5px;}
+.more a{font-size: 18px;color: #cdcdcd;}
+/* end receive */
+/* dispatching */
+.receive1 label{float: left;line-height: 34px;height: 34px;}
+.receive1 div{display: inline;margin-right: 14px;}
+.receive1 .more a{color: #000;}
+.receive1 label{display: inline-block;width: 90px;}
+.receive1 ul li{line-height: 24px;}
+.mores_lg{width: 252px;}
+.mores{font-size: 14px;font-weight: bold;min-width: 108px;height: 33px;}
+.text_lg{width: 605px !important;border-radius: 0 !important;border-color: #F3A900 !important;}
+.serve{width: 100% !important;}
+.mores_left{margin-left: 90px;}
+.more_ie6{_width: 50px;}
+.recommend{font-weight: bold;color: #CC0000;margin-right: 34px;}
+.payment ul li{display: inline;margin-right: 50px;}
+.my_shop2{margin-top: 20px !important;}
+.my_shop2 table tbody tr{border: 1px solid #F3A900;}
+.shuliang{width: 36px;height: 20px;border: 1px solid #C9C9C9;}
+.identifier, .unit_price, .subtotal{width: 184px;}
+.tbod{height: 15px;}
+.names p{margin-top: 0px !important;}
+.my_shop4 tr{line-height: 40px;}
+/* end dispatching */
+/* fcb_comments */
+.fcb_comments{width: 1000px;height: 290px;margin-bottom: 170px;}
+.fcb_comments_text{height: 45px;}
+.fcb_comments_text input{width:654px;height: 27px;margin: 7px 0 0 4px;}
+.fcb_comments_left{width: 826px;height: 245px;position: relative;}
+.fcb_comments_right{width: 174px;height: 245px;}
+.fcb_comments_left ul{margin-top: 123px;}
+.fcb_comments_left ul li{float: left;margin-right: 30px;width: 330px;}
+.giving{position: absolute;right: 70px;bottom: 10px;}
+.fcb_comments_right ul li{line-height: 34px;}
+.fcb_comments_right ul li input{width: 110px;height: 38px;margin-top: 10px;}
+.money1 input,.discount input{display: none;}
+/* end fcb_comments  page4*/
+
+/* pop page5*/
+.pop{display:none;width: 421px;height: 218px;position:absolute;right:50px;bottom:50px;border: 2px solid #00A8D2; background:#fff url(../img/pop.gif) no-repeat;}
+.pop_right{width: 210px;height: 218px;position: relative;}
+.pop_right a{position: absolute;bottom: 5px;padding: 8px 15px;}
+.no{right: 110px;}
+.yes{right: 12px;}
+.pop_right input{width: 210px;height: 183px;border: 0;}
+textarea{resize:none;overflow: hidden;width: 204px;height: 160px;border: none;font-size: 15px;color: #cdcdcd;font-weight: bold;font-family: "黑体";line-height: 30px;}
+/* end pop page5*/
+
+

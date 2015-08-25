@@ -1,0 +1,82 @@
+.figure{position: relative;}
+.zjf_banner{width: 996px;height: 473px;border:1px solid #aaa9a9;margin-top: 10px;position:relative;display:block;margin-bottom: 55px;overflow: hidden;}
+.zjf_banner .pic{width: 10000px;height:473px;position:absolute;left: 0;}
+.zjf_banner .pic li{float: left;}
+.zjf_fresh{width: 1000px;margin-bottom: 20px;}
+.zjf_fresh_right{width: 349px;height: 123px;border:1px solid #aaa9a9}
+.zjf_fresh_right h3{width:339px;height: 36px;border-bottom: 1px solid #AAA9A9;margin:0 auto;line-height: 36px;text-indent: 6px;}
+.zjf_fresh_right h3 a{margin-right:20px;color: #a9a9a8;}
+.zjf_fresh_right ul{line-height:28px;}
+.zjf_fresh_right ul li{margin-left: 10px;font-size: 14px;list-style: inside;color: #A9A9A8;}
+.zjf_fresh_right ul li a{color: #A9A9A8;}
+.zjf_fresh_right ul li a b{color: #cc0000;font-weight: bold;}
+.zjf_stores{width: 1000px;height: 218px;}
+.zjf_stores h2{font-size: 33.25px;text-align: center;margin-top: 30px;}
+.zjf_stores button{width:82px;height: 28px;font-size: 14px;margin-right: 36px;}
+.zjf_stores ul{margin-top:40px;margin-left:10px;}
+.zjf_stores ul li{width: 130px;height: 86px;float: left;border:1px solid #a9a9a8;margin-left: 27px;overflow: hidden;}
+.popup{display: none;z-index:999;position: fixed;_position:absolute;top:0;_top:auto;_bottom:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));}
+.zjf_popup{width: 100%;height:1700px;background: #000;position:fixed;top:0;opacity: 0.5;filter:alpha(opacity=50)}
+.popup_welcome{width: 636px;height: 290px;background:#fff url(../img/popbg.png) no-repeat ;position:fixed;_position:absolute;top:202px;_top:100px;left:350px;border:5px solid #00a8d2}
+.popup_welcome p{font-size: 21px;margin-left: 78px;line-height: 30px;}
+.popup_welcome p.pop_king{margin-top: 96px;}
+.popup_welcome select{width: 153px;height: 33px;margin-left: 78px;font-size: 21px;text-indent: 1em;margin-top:16px;}
+.popup_welcome button{width: 147px;height: 37px;font-size:21px;margin-left: 78px;margin-top: 20px;}
+.popup_welcome a{display: block;width: 18px;height: 18px;background:url(../img/close.png);position: absolute;right:10px;top:10px;}
+
+/*buy*/
+#zjf_buy{margin-bottom:50px;width:1000px;}
+#zjf_buy ul{margin-top: 20px;}
+.buy_more{font-size: 18px;color: #179ec5;}
+
+/*second nav*/
+.country_two{z-index:999;width: 603px;height: 212px;border:1px solid #f3a900;position: absolute;left:-500px;top:26px;background: #fff;display: none;padding-bottom: 30px;}
+.country_two h3{font-size: 18px;width: 554px;height: 38px;line-height: 38px;border-bottom: 1px solid #d22229;margin:0 auto;}
+.country_two ul{width: 554px;height: 40px;margin-top:16px;float: left;}
+.country_two ul li{float: left;width: 130px;height: 60px;margin-right: 8px;}
+.country_two ul li .usa{width: 130px;}
+.country_two ul li dl dt{float: left;}
+.ml60{margin-left: 60px;}
+.country_two .usai{display: block;width: 15px;height: 12px;background: url(../img/bg.png) no-repeat -385px -286px;float: left;margin-top:4px;}
+.usa_dd{text-indent:5px;color: #cc0000;}
+.usa p{margin-left:20px;color: #cc0000;}
+.country_two ul li .bahrain i{background-position: -434px -35px;}
+.country_two .bah_dd{text-indent:5px;color: #000;}
+.ml20{margin-left: 20px;}
+.country_two .canada i{background-position: -432px -286px;}
+.country_two .qatar i{background-position: -484px -84px;}
+.country_two .qatar{width: 60px;}
+.country_two .ital i{background-position: -432px -185px;}
+.ital{width:60px;}
+/*.china{margin-left: 130px;}*/
+.country_two .china i{background-position: -433px -237px;}
+.country_two .chhk i{background-position: -485px -187px;}
+.arali{margin-left:35px;}
+.ara{width: 100px;}
+.country_two .ara i{background-position: -484px -139px;}
+.arab{width: 140px;}
+.country_two .arab i{background-position: -433px -138px;}
+.country_two .kuwait i{background-position:-433px -138px ;}
+.country_two .puerto i{background-position: -434px -84px;}
+.turkey{margin-left:8px;}
+.country_two .turkey i{background-position: -484px -34px;}
+
+.city{width:257px;height: 144px;background:#fff;position: absolute;border: 1px solid #f3a900;top:26px;display: none;z-index: 666;}
+.city h3{font-size: 15px;width: 223px;height: 38px;border-bottom: 1px solid #d22229;margin:0 auto;color: #000;line-height: 38px;text-align: left;}
+.city_bottom{width: 223px;margin:0 auto;height:105px;line-height: 30px;}
+.city_bottom ul li{float: left;color: #000;font-size: 15px;}
+.city_bottom ul .red{color: #CC0000;}
+
+.we ul{width: 100%;}
+.we ul li{margin-left:20px;}
+.we ul .red{color: #CC0000;}
+.we ul .ml0{margin-left:0;}
+.flower ul li{margin-left:20px;}
+.flower ul .red{color: #CC0000;}
+
+/*banner*/
+.banner_point{width:auto;height:48px;position: absolute;bottom:30px;left:400px;}
+.banner_point li{width: 15px;height: 15px;background:url(../img/point.png);float: left;border-radius:7px;margin-left: 20px;margin-top:16px;}
+.banner_left{display:block;width: 7px;height: 14px;background: url(../img/bg.png) no-repeat -393px -185px;margin-top:16px;position:absolute;bottom: 48px;left:400px;bottom:47px;_bottom:46px;}
+.banner_right{display:block;width: 7px;height: 14px;background:url(../img/bg.png) no-repeat -392px -135px;margin-top:16px;margin-left:20px;position: absolute;bottom:48px;right:430px;_right:400px;bottom:47px;_bottom:46px;}
+.banner_point .banner_active{border:0;background: url(../img/bg.png) no-repeat -335px -185px;}
